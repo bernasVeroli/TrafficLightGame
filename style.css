@@ -1,0 +1,13 @@
+body{
+    image-rendering: pixelated;
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 100px;
+    font-size: large;
+    font-style: oblique;
+}
+div {
+    text-align: left;
+}
